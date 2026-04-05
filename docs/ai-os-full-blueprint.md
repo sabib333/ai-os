@@ -24,7 +24,10 @@ AI OS is a unified personal platform that manages a user's full digital life: me
 
 ### Phase 1 (0–6 months): MVP / habit formation
 1. **AI Memory (priority #1)**
-   - Store and retrieve user preferences, projects, habits, contacts.
+   - Store and retrieve user preferences, projects, habits, goals, and contacts.
+   - Support four memory classes from day one: short-term, long-term, episodic, and semantic.
+   - Add explicit controls: memory viewer, edit/delete actions, and source-level opt-out toggles.
+   - Use confidence-scored retrieval with user confirmation for high-impact actions (email sends, purchases, scheduling changes).
 2. **Notes + Voice Notes**
    - Capture, summarize, auto-title, tag, search.
 3. **Tasks + Reminders**
